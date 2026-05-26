@@ -1,4 +1,4 @@
-const CACHE = 'schulte-v1';
+const CACHE = 'schulte-v2';
 const ASSETS = [
   '/',
   '/index.html',
